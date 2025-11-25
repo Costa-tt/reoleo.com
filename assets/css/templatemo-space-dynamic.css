@@ -1476,8 +1476,8 @@ responsive
     text-align: center;
   }
   .about-us .services .item  {
-    background: rgb(216,242,216);
-    background: linear-gradient(105deg, rgba(216,242,216) 0%, rgba(216,242,216) 100%);
+    background: rgb(30, 89, 51);
+    background: linear-gradient(105deg, rgba(30, 89, 51) 0%, rgba(30, 89, 51) 100%);
     padding: 30px;
     border-radius: 20px;
     display: inline-block;
